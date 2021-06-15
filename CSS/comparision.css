@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+.container {
+    overflow: hidden;
+    background-color: #0698CD;
+    font-family: Calibri;
+}
+
+.container a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+	
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;
+	text-align: center;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+}
+
+.container a:hover, .dropdown:hover .dropbtn {
+    background-color: #06739B;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #0698CD;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color:#FFF;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #06739B;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+#Box1
+{
+	width:40%;
+	height:auto;
+	background-color:#758048;
+	margin-left:100px;
+	float:left;
+	margin-top:2px;
+	
+	}
+	#Box2
+{
+	float:left;
+	width:40%;
+	height:auto;
+	background-color:#758048;
+	margin-top:2px;
+	}
+	#Content
+	{
+		width:532px;
+		height:auto;
+		color:#039;
+		margin-left:100px;
+	    margin-top:2px;
+	    float:left;
+		background-image: url(../Images/Icons/iframebackground.jpg)
+		
+		}
+		#Content2
+	{
+		float:left;
+		width:532px;
+		height:auto;
+		color:#039;
+		margin-left:69px;
+	    margin-top:2px;
+		background-image: url(../Images/Icons/iframebackground.jpg)
+		
+		}
+	

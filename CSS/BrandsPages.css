@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+.brandsuggest{
+	border: 2px solid #075A11;
+	border-radius: 12px;
+	background: #FFFFFF;
+	color: black;
+	margin-top: 10px;
+	margin-left:3.5%;
+	width: 10%;	
+	height: 60px;
+	transition: 0.4s;
+}
+.brandsuggest:hover{
+	background: #075A11;
+	color: white;
+}
+.brandsuggest1{
+	border: 2px solid #D83C3C;
+	border-radius: 12px;
+	background: #FFFFFF;
+	color: black;
+	margin-top: 10px;
+	margin-left:3.5%;
+	width: 10%;	
+	height: 60px;
+	transition: 0.4s;
+}
+.brandsuggest1:hover{
+	background:#D83C3C;
+	color: white;
+}
+.brandsuggest2{
+	border: 2px solid #00433E;
+	border-radius: 12px;
+	background: #FFFFFF;
+	color: black;
+	margin-top: 10px;
+	margin-left:3.5%;
+	width: 10%;	
+	height: 60px;
+	transition: 0.4s;
+}
+.brandsuggest2:hover{
+	background: #00433E;
+	color: white;
+}
+.brandsuggest3{
+	border: 2px solid #055AA0;
+	border-radius: 12px;
+	background: #FFFFFF;
+	color: black;
+	margin-top: 10px;
+	margin-left:3.5%;
+	width: 10%;	
+	height: 60px;
+	transition: 0.4s;
+}
+.brandsuggest3:hover{
+	background:#055AA0;
+	color: white;
+}
+.brandsuggest4{
+	border: 2px solid #50007F;
+	border-radius: 12px;
+	background: #FFFFFF;
+	color: black;
+	margin-top: 10px;
+	margin-left:3.5%;
+	width: 10%;	
+	height: 60px;
+	transition: 0.4s;
+}
+.brandsuggest4:hover{
+	background: #50007F;
+	color: white;
+}
+.brandsuggest5{
+	border: 2px solid#6F3318;
+	border-radius: 12px;
+	background: #FFFFFF;
+	color: black;
+	margin-top: 10px;
+	margin-left:3.5%;
+	width: 10%;	
+	height: 60px;
+	transition: 0.4s;
+}
+.brandsuggest5:hover{
+	background: #6F3318;
+	color: white;
+}
+.brandsuggest6{
+	border: 2px solid #CC6C00;
+	border-radius: 12px;
+	background: #FFFFFF;
+	color: black;
+	margin-top: 10px;
+	margin-left:3.5%;
+	width: 10%;	
+	height: 60px;
+	transition: 0.4s;
+}
+.brandsuggest6:hover{
+	background: #CC6C00;
+	color: white;
+}

@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+.productgrid{
+	column-count: 2;
+	column-gap: 0px;
+	}	
+.main-product{
+	width: 300px;
+	margin-top: 90px;
+	margin-left:40%;
+	}
+.product-details{
+	margin-top: 120px;
+	margin-right: 30%;
+}
+.product-details img{
+	width: 60px;
+	height: 60px;
+}
+.product-details p{
+	text-align: justify;
+}
+.download-button{
+	background:#0698CD;
+	color: White;
+	margin-top: 10px;
+	width: 30%;	
+	height: 60px;
+	transition: 0.4s;
+}

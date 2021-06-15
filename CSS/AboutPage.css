@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+
+.about{
+	background-color: #A7E9F1;
+	height: 40px;
+	font-family: Calibri;
+	font-size: 28px;
+}.wrapper{
+	margin: 0px 70px 0px 70px;
+}
+p{
+	font-size: 12px;
+}

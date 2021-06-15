@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.term{
+	
+	font-family: Calibri;
+	font-size: 28px;
+}
+
+.wrapper{
+	
+	margin: 0px 70px 0px 70px;
+}
+p{
+	font-size: 16px;
+}

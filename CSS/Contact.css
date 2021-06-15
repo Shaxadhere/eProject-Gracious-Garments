@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background: white;
+	;
+	}
+.wrapper{
+	width: 80%;
+	padding: 50px;
+	background:#0698CD;
+	margin: 0 auto;
+	border-radius:10px;
+	display: flex;
+}
+.wrapper h2{
+	text-transform: uppercase;
+	color: #000000;
+}
+.wrapper p{
+	color: #222;
+	font-weight: bold;
+	
+}
+.wrapper input[
+type=text]
+{
+	border-radius: 10px;
+	width: 80%;
+	height: 30px;
+	
+}
+.wrapper select{
+	border-radius: 10px;
+	height: 30px;
+}
+.wrapper input[
+type=email
+
+]
+
+textarea{
+	width: 5px;
+	height: 30px;
+	margin-bottom: 15px;
+	padding: 5px;
+
+}
+.wrapper a{
+	text-decoration: none;
+	background:#322F2F;
+	color:white;
+	display: block;
+	padding: 10px 15px;
+	text-align: center;
+	font-size: 18px;
+}
+.googlemap{
+	margin-top: 13%;
+	margin-left: 20%;
+	margin-bottom: 10px;
+}
+.googlemap iframe{
+	height: 90%;
+	width: 180%;
+	
+}

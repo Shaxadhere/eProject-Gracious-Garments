@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+.card img{
+	width:200px;
+	height:400px;
+}
+.grid-item img{
+	width: 200px;
+	height: 400px;
+}
